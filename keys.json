@@ -1,3 +1,10 @@
 {
-  "ABC123": { "status": "ativa", "usadaPor": null }
+    "ABC123": {
+        "status": "ativa",
+        "usadaPor": null
+    },
+    "9846D584": {
+        "status": "ativa",
+        "usadaPor": null
+    }
 }
